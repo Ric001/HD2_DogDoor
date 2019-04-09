@@ -1,0 +1,95 @@
+Learning Path: 
+
+------ Java Features -----
+ 
+Introduccion to Java:
+	With: HeadFirst Java 2nd Edition(Java SE 1.5)
+(Java 12 salio)..
+
+JDBC: Java Database Conectivity API
+       With: Makigas - Curso de JDBC
+       With: OCP - 8
+IO / NIO:
+       With: OCP - 8
+JNDI:
+       With:https://www.oracle.com/technetwork/java/index-140319.html
+
+Java Collections API:
+       With: OCA - 8 
+       With: OCP - 8
+
+Java Lambdas:
+      With: OCA - 8 
+      With: OCP - 8
+Java Concurrency API:
+       With: OCA - 8 
+       With: OCP - 8
+JNI:
+
+JNLP:Java Network Launch Program API. 
+
+SERVLETS AND JSP:
+       With: HeadFirst Java Servlets And JSP 2nd
+       
+JSF:
+
+Java Networking API:
+       
+RMI: 
+       With: Head First Java 2nd Edition
+       With: Distributed Computing on Java 9
+EJB: 
+       With: Head First EJB
+       With Beginning EJB in Java EE
+CORBA:
+
+
+JAAS: 
+
+---- Theorical Engineer thinking resources: -----
+
+Object Oriented Analisys And Design: With: HeadFirst OOAD. - *Proccess*
+Design Patterns: With: HeadFirst DP
+Aspect Oriented Programming:
+Clean Code: With: Clean Code Uncle Bob
+Database Design: With: Fundamentos de las Bases de datos 4ta Edicion
+
+----------Advanced Java Web Frameworks:------------
+Spring Framework
+Apache Wicket
+
+--------- Build Systems / Dependency Administration --------
+Apache Maven
+Gradle
+---------- Unit Testing FW ----------
+Junit
+--------- Deployment Utilities ---------
+Docker
+Kubernetes
+--------- Database Engines ---------
+Oracle
+MySQL
+MongoDB
+-------- Front End Path ------- 
+HTML / HTML 5
+Pure Front End Javascript 
+JQuery 
+Css / Bootstrap 3
+
+----- Operative System ------ 
+Linux - Ubuntu
+Linux - Debian
+Linux - Red Hat
+
+-------- Algoritmia And Data Structures ---- 
+Estructura de datos:
+       Java - Makigas
+       C - Joyanes Aguilar
+       C++ - Deitel & Deitel
+
+----- Programming Languages ------
+C / C++, Java, Javascript, Python, Csharp, R. 
+
+----- Database Languages -------
+SQL, MongoDB Lang. 
+
